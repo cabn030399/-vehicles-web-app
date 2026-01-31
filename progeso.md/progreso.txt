@@ -1,0 +1,24 @@
+# Progreso del Proyecto - Premier League Web App
+
+## ✅ Completado:
+1. Dataset premier_league_2025.csv movido a la carpeta raíz
+2. Notebook EDA.ipynb creado en carpeta notebooks/
+3. Análisis exploratorio básico completado:
+   - Histograma de distribución por jornadas
+   - Gráfico de barras de equipos locales
+   - Gráfico de dispersión Match Number vs Round Number
+   - Gráfico de pie del estado de partidos
+
+## 🔄 Siguiente paso:
+Crear archivo app.py para la aplicación web con Streamlit
+
+## 📊 Datos del dataset:
+- 380 partidos total
+- 220 con resultados, 160 sin resultados
+- 38 jornadas, 20 equipos
+
+
+Estado actual de tu proyecto:
+- ✅ Tienes la aplicación funcionando
+- ✅ El histograma ya funciona correctamente
+- ❌ Te falta implementar el segundo botón para el gráfico de dispersión
